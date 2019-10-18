@@ -35,7 +35,7 @@
   - [x] Strings
   - [x] Variables
   - [x] Methods
-  - [ ] Conditionals
+  - [x] Conditionals
   - [ ] Loops
   - [ ] Arrays
   - [ ] Array Methods & Enumerables
