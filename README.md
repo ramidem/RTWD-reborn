@@ -34,7 +34,7 @@
   - [x] Booleans
   - [x] Strings
   - [x] Variables
-  - [ ] Methods
+  - [x] Methods
   - [ ] Conditionals
   - [ ] Loops
   - [ ] Arrays
