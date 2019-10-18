@@ -29,10 +29,11 @@
 
 - [x] Welcome To Coding
 - [ ] Full Stack Online - Intro to Programming
+
   - [x] Numbers
   - [x] Booleans
   - [x] Strings
-  - [ ] Variables
+  - [x] Variables
   - [ ] Methods
   - [ ] Conditionals
   - [ ] Loops
@@ -51,6 +52,7 @@
 - [ ] Full Stack Online - Job Search
 
 **Capstone**
+
 - [ ] Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.
 
 ### Tier 1 - Getting Started
