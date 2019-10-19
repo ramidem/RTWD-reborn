@@ -36,7 +36,7 @@
   - [x] Variables
   - [x] Methods
   - [x] Conditionals
-  - [ ] Loops
+  - [x] Loops
   - [ ] Arrays
   - [ ] Array Methods & Enumerables
   - [ ] Hashes
