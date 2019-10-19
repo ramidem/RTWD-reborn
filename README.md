@@ -37,7 +37,7 @@
   - [x] Methods
   - [x] Conditionals
   - [x] Loops
-  - [ ] Arrays
+  - [x] Arrays
   - [ ] Array Methods & Enumerables
   - [ ] Hashes
   - [ ] Advanced Problems
