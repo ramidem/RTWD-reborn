@@ -23,7 +23,7 @@
 
 **Others**
 
-- [ ] [What The FlexBox](https://flexbox.io/)
+- [x] [What The FlexBox](https://flexbox.io/)
 - [ ] [CSS Grid](https://cssgrid.io/)
 - [ ] [JavaScript30](https://javascript30.com/)
   - [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
