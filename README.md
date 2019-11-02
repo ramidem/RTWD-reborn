@@ -15,7 +15,7 @@
 
 **Courses**
 
-- [ ] [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+- [x] [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [ ] [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 - [ ] [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 - [ ] [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
@@ -24,9 +24,9 @@
 **Others**
 
 - [x] [What The FlexBox](https://flexbox.io/)
-- [ ] [CSS Grid](https://cssgrid.io/)
+- [x] [CSS Grid](https://cssgrid.io/)
 - [ ] [JavaScript30](https://javascript30.com/)
-  - [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+  - [x][ ][ ][ ][ ][ ][ ][ ][ ][ ]
   - [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
   - [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
 
