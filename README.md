@@ -26,7 +26,7 @@
 - [x] [What The FlexBox](https://flexbox.io/)
 - [x] [CSS Grid](https://cssgrid.io/)
 - [ ] [JavaScript30](https://javascript30.com/)
-  - [x][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+  - [x][x][ ][ ][ ][ ][ ][ ][ ][ ]
   - [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
   - [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
 
